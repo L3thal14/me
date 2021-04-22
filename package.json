@@ -2,7 +2,7 @@
   "name": "karthik-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://l3thal14.github.io/me",
+  "homepage": "https://karthikr.codes",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
@@ -22,7 +22,7 @@
     "typewriter-effect": "^2.13.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && COPY \"CNAME\" \"./build/CNAME\"",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
