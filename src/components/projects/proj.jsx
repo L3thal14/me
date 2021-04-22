@@ -6,7 +6,7 @@ class Projects extends Component {
   render() {
     return (
       <>
-        <div id="Projects" style={{ backgroundColor: "#051424" }}>
+        <div id="projects" style={{ backgroundColor: "#051424" }}>
           <h1 className="pt-3 text-center font-details-b pb-3 project-text">
             {" "}
             Projects

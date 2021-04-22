@@ -31,7 +31,7 @@ const About = () => {
                 <br /> <br />
                 <button className="button-newer" style={{ padding: "4px" }}>
                   <a
-                    href="/me/karthik-resume.pdf"
+                    href="/karthik-resume.pdf"
                     className="resume font-details"
                     target="_blank"
                     rel="noopener noreferrer"

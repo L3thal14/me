@@ -59,7 +59,7 @@ const MyNavbar = () => {
               <Nav.Link href="#projects">Projects</Nav.Link>
               <Nav.Link href="#contact">Contact</Nav.Link>
               <Nav.Link
-                href="/me/karthik-resume.pdf"
+                href="/karthik-resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
