@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  cursor: url(./cursors/normalcursor.png), auto;
+}
+
+a {
+  cursor: url(./cursors/choosecursor.png), pointer;
+}
+img {
+  cursor: url(./cursors/choosecursor.png), pointer;
+}
+.cursor {
+  cursor: url(./cursors/choosecursor.png), pointer;
+}
+
+.splashscreen {
+  text-align: center;
+  padding-top: 10%;
+  background-color: #000b1a;
+}
+div {
+  border: none !important;
+  background-position: top center;
+  width: 100%;
+  display: block;
+}

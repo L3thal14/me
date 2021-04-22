@@ -1,0 +1,25 @@
+.about {
+  background-color: #051424;
+  font-size: 1.1em;
+  color: #4fc1b8;
+  padding-bottom: 3rem;
+}
+
+.profile {
+  max-width: 18em;
+}
+
+.my-details {
+  background-color: #303c55;
+}
+.svg-icons {
+  height: 10vmin;
+  width: 10vmin;
+  padding: 10px;
+}
+.project-text {
+  color: #c0cae9;
+}
+.heading {
+  color: #c0cae9;
+}

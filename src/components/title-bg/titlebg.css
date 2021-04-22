@@ -1,0 +1,8 @@
+.custom-div {
+  height: 100vh;
+  object-fit: cover;
+  background-color: #051424;
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+}
