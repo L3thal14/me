@@ -31,6 +31,16 @@ const About = () => {
                 <br /> <br />
                 <button className="button-newer" style={{ padding: "4px" }}>
                   <a
+                    href="/karthik-cv.pdf"
+                    className="resume font-details"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    CV
+                  </a>
+                </button>
+                <button className="button-newer" style={{ padding: "4px" }}>
+                  <a
                     href="/karthik-resume.pdf"
                     className="resume font-details"
                     target="_blank"

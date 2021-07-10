@@ -24,8 +24,8 @@ import firebase from "../../assets/img/projects/firebase.svg";
 const ProjectCard = () => {
   return (
     <>
-      <Row style={{ paddingTop: "40px" }}>
-        <Col>
+      <Row xs={12} md={12} style={{ paddingTop: "40px" }}>
+        <Col md={4}>
           <div className="mCard cardOverride">
             <div className="mCard-image" style={{ display: "flex" }}>
               <div
@@ -73,7 +73,7 @@ const ProjectCard = () => {
             </div>
           </div>
         </Col>
-        <Col>
+        <Col md={4}>
           <div className="mCard cardOverride">
             <div className="mCard-image" style={{ display: "flex" }}>
               <div
@@ -125,7 +125,7 @@ const ProjectCard = () => {
             </div>
           </div>
         </Col>
-        <Col>
+        <Col md={4}>
           <div className="mCard cardOverride">
             <div className="mCard-image" style={{ display: "flex" }}>
               <div
@@ -165,8 +165,8 @@ const ProjectCard = () => {
           </div>
         </Col>
       </Row>
-      <Row style={{ paddingTop: "40px" }}>
-        <Col>
+      <Row xs={12} md={12} style={{ paddingTop: "40px" }}>
+        <Col md={4}>
           <div className="mCard cardOverride">
             <div className="mCard-image" style={{ display: "flex" }}>
               <div
@@ -212,7 +212,7 @@ const ProjectCard = () => {
             </div>
           </div>
         </Col>
-        <Col>
+        <Col md={4}>
           <div className="mCard cardOverride">
             <div className="mCard-image" style={{ display: "flex" }}>
               <div
@@ -252,7 +252,7 @@ const ProjectCard = () => {
             </div>
           </div>
         </Col>
-        <Col>
+        <Col md={4}>
           <div className="mCard cardOverride">
             <div className="mCard-image" style={{ display: "flex" }}>
               <div

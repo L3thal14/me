@@ -106,29 +106,29 @@ const Experience = () => {
       <Timeline theme={customTheme} opts={{ layout: "alt-evts-inline-date" }}>
         <Events>
           <TextEvent
-            date="May 2021"
-            text="** Interdisciplinary Center for Cyber Security and Cyber Defense of Critical Infrastructures(C3i Center, IIT Kanpur) - Incoming VAPT Intern** <br/>
+            date="May 2021 - Present"
+            text="**Global Cybersecurity Institute (Rochester Institute of Technology) - Cybersecurity Visiting Researcher**"
+          />
+          <TextEvent
+            date="May 2021 - Present"
+            text="**C3i Center, IIT Kanpur - Vulnerability Assessment and Penetration Testing(VAPT) Intern** <br/>
              "
           />
           <TextEvent
-            date="March 2021 - PRESENT"
-            text="** Information Sharing and Analysis Center(ISAC) - Research Intern** <br/>
-             Contributing to finding vulnerabilities in companies in the private and public domain for responsible disclosure."
+            date="March 2021 - May 2021"
+            text="** Information Sharing and Analysis Center(ISAC) - Research Intern**"
           />
           <TextEvent
-            date="February 2021 - PRESENT"
-            text="** Crime Free Bharat,National Technical Research Development Committee, NTRDC, India - Web Application Security Intern** <br/>
-             Working on building websites using Django Framework and fixing existing security bugs."
+            date="February 2021 - May 2021"
+            text="** Crime Free Bharat,National Technical Research Development Committee, NTRDC, India - Web Application Security Intern**"
           />
           <TextEvent
             date="June 2019 - July 2019"
-            text="** i3indya Cyber Solutions - Cyber Security Intern** <br/> 
-            Performed penetration testing for various projects undertaken by the company. Performed live packet data capture with Wireshark to examine security flaws. Submitted penetration test report to the client."
+            text="** i3indya Cyber Solutions - Cyber Security Intern**"
           />
           <TextEvent
             date="June 2018 - December 2018"
-            text="** LookAtHer Org. - Co-Founder and Web Developer** <br/>
-            LookAtHer is a non-profit merchandise startup headquartered in San Francisco. Developed a website with Shopify integration along with a dashboard to manage and analyse sales. Generated around $2000 in sales within a span of two weeks."
+            text="** LookAtHer Org. - Co-Founder and Web Developer**"
           />
         </Events>
       </Timeline>

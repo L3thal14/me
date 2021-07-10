@@ -65,6 +65,13 @@ const MyNavbar = () => {
               >
                 Resume
               </Nav.Link>
+              <Nav.Link
+                href="/karthik-cv.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                CV
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </div>
